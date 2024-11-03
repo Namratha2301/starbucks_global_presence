@@ -54,8 +54,6 @@ The following visualizations are included in this project:
 ## Conclusion
 Starbucks has significantly shaped the global coffee culture since its founding in 1971. With a strong presence in the U.S. and strategic expansion into international markets, Starbucks continues to be a leader in the coffee industry. Its unique ownership structure and innovative partnerships, particularly in Asia, underscore its adaptability and commitment to growth.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Data source: [Starbucks Store Locator data (GitHub: chrismeller)](https://github.com/chrismeller/Starbucks-Store-Locator)
